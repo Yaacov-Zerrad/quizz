@@ -1,7 +1,7 @@
 # quizz
 a quizz app
 
-#### ne pas oublier quant tu fini de travailler cmd
+#### ne pas oublier quant tu fini de travailler cmd aussi non tu perd ton travail
 ```
 git add .
 ```
