@@ -41,7 +41,7 @@ Il y aura une erreur quand tu ferra flask run il faut que tu met ces commande da
     # for run
     flask run
 
-quant tu arrive au html tu peux suivre les instructions du css,  le plus important c'est d'apprendre a afficher ta page html avec les **block de contenue** et boostrap, (il met un lien de bootsrap c'est super pour le css)..
+Quant tu arrive au html tu peux suivre les instructions du css,  le plus important c'est d'apprendre a afficher ta page html avec les **block de contenue** et boostrap, (il met un lien de bootsrap c'est super pour le css)..
 
 ### 2. Cree une api de traduction
 - Dans un nouveau ficher qui s'appel translate.py
