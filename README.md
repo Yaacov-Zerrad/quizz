@@ -36,7 +36,7 @@ Il y aura une erreur quand tu ferra flask run il faut que tu met ces commande da
     FLASK_APP=app.py 
     # pour debuge
     FLASK_DEBUG=1 
-    pour ne pas avoir a recharger la page quand il on fait des changement
+    # pour ne pas avoir a recharger la page quand il on fait des changement
     TEMPLATES_AUTO_RELOAD=1 
     # for run
     flask run
