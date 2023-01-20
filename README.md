@@ -1,6 +1,9 @@
 # quizz
 a quizz app
 
+
+## NE PAS NOMMER LES FICHIER AVEC DE MAJUSCULE NI LES FONCTIONS NI LES VARIABLES
+
 #### ne pas oublier quant tu fini de travailler cmd aussi non tu perd ton travail
 ```
 git add .
@@ -33,11 +36,11 @@ Pour cree une app flask suis les instruction de ce [lien](https://www.digitaloce
 Il y aura une erreur quand tu ferra flask run il faut que tu met ces commande dans le terminal (car il sont pas a jour les leur , c'est possible qu'il y a des autres bug)
 
     # le nom  du fichier que tu as fais
-    FLASK_APP=app.py 
+    export FLASK_APP=app.py 
     # pour debuge
-    FLASK_DEBUG=1 
+    export FLASK_DEBUG=1 
     # pour ne pas avoir a recharger la page quand il on fait des changement
-    TEMPLATES_AUTO_RELOAD=1 
+    export TEMPLATES_AUTO_RELOAD=1 
     # for run
     flask run
 
